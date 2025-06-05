@@ -1,4 +1,4 @@
-# 🇮🇳 India's Air Quality Prediction System
+# India's Air Quality Prediction System
 
 A time series forecasting project to predict India's air quality using real-world data from 2017 to 2022. The system leverages Python's data science stack and Facebook Prophet to provide accurate AQI (Air Quality Index) forecasts and trend analysis.
 
